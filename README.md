@@ -1,6 +1,6 @@
 ### Fala com o Lucão!!
 - 🧑🏿‍💻 Objetivo: Developer Front-End
-- 🌱 Estudando: JavaScript | HTML | CSS
+- 🌱 Estudando: JavaScript | HTML | CSS | BOOTSTRAP
 - ⚡ T.I - SENAC RIO
 
 </div>
