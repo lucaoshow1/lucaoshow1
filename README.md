@@ -1,6 +1,6 @@
 ### Fala com o Lucão!!
-- 🧑🏿‍💻 Objetivo: Developer Front-End
-- 🌱 Estudando: JavaScript | HTML | CSS | PHP
+- 🧑🏿‍💻 Objetivo: Developer Back-End
+- 🌱 Estudando: JavaScript | PHP | MYSQL | JAVA 
 - ⚡ T.I - SENAC RIO
 
 </div>
