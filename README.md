@@ -1,6 +1,6 @@
 ### Fala com o Lucão!!
 - 🧑🏿‍💻 Objetivo: Developer Back-End
-- 🌱 Estudando: JavaScript | PHP | MYSQL | JAVA 
+- 🌱 Estudando: DevOps | Redes de Computadores | Infra | Suporte Técnico | PHP
 - ⚡ T.I - SENAC RIO
 
 </div>
